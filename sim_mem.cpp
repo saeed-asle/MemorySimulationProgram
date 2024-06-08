@@ -1,7 +1,4 @@
-/*Ex5
-ID:315957399
-SAEED ASLE
-*/
+
 #include "sim_mem.h"
 #include <iostream>
 #include <fstream>
