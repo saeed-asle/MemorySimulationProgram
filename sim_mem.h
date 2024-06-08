@@ -1,7 +1,4 @@
-/*Ex5
-ID:315957399
-SAEED ASLE
-*/
+
 #ifndef SIM_MEM_H
 #include <ostream>
 #include <iostream>
